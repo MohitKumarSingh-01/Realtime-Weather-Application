@@ -1,6 +1,6 @@
 Hi Guys!
 
-Today i'm going to create a new web application with HTML,CSS,JavaScript.
+I have create a new web application with HTML,CSS,JavaScript.
 
 The only difficulty you might face, is how to work with an API using JavaScript.
 
